@@ -5,7 +5,7 @@ var db=mysql.createConnection({
 	host:"localhost",
 	user:"root",
 	password:"",
-	database:""
+	database:"your_database_name"
 });
 
 
